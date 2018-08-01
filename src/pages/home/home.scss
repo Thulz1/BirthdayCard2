@@ -1,0 +1,33 @@
+page-home {
+
+ .style{
+    background-image: url("../assets/imgs/bday2.jpg");
+  border-radius: 5px;
+  opacity: 0,1;
+  background-size: cover;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: center center;
+         }
+       
+  
+h1{
+    color: rgb(224, 173, 212);
+    font-family: monospace strong;
+    font-size: 24pt;
+    font-style: italic;
+}
+
+ img{
+    margin-top: 10%;
+    position: center;               
+    }
+.hay{
+    font-family: monospace strong;
+    color: rgb(224, 173, 212);
+    text-align: right;
+    margin-top: -10%;
+   
+}
+
+}
